@@ -1,0 +1,7 @@
+{
+  "name": "onnx-profiler",
+  "version": "0.1.0",
+  "dependencies": [
+    "onnxruntime"
+  ]
+}
